@@ -1,0 +1,10 @@
+What is DHCP?
+Ans: DHCP (Dynamic Host configuration Protocol) is a network protocol that automatically assigns IP addresses and other network configuratin parameters to devices in a network.
+Explain the difference between TCP and UDP?
+Ans: TCP(Transmission control protocol)is a connection-oriented protocol that ensures data reliability,while UDP(User Datagram protocol)is connectionless and focuses on faster data transmission without guaranteed delivery.
+What is Raid?
+Ans:Raid(Redundant array of Indenpendent Disks)is a technology that combines multiple hard drives to improve data performance,redundancy,or both.
+How do you secure a server?
+Ans: Server security involves implementing firewalls,regular security updates,access controls,intrusion detection systems,and strong authentication methods.
+What is virtualization?
+virtualization is the process of creating virtual instances of hardware,
